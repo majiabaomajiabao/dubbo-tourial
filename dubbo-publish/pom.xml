@@ -108,9 +108,9 @@
 
     <!--dubbo start-->
     <dependency>
-      <groupId>com.benmu.dubbo</groupId>
+      <groupId>com.alibaba</groupId>
       <artifactId>dubbo</artifactId>
-      <version>1.1.0</version>
+      <version>2.5.3</version>
     </dependency>
 
     <!--zkclient-->

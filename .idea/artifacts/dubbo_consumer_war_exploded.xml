@@ -19,6 +19,17 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
+          <element id="library" level="project" name="Maven: com.benmu.dubbo:dubbo:1.1.0" />
+          <element id="library" level="project" name="Maven: com.benmu.dubbo:dubbo-async-api:1.1.0" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.4.1.Final" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk16:1.46" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.5" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.18.0-GA" />
+          <element id="library" level="project" name="Maven: com.github.sgroschupf:zkclient:0.1" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.3.3" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: junit:junit:3.8.1" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.14" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.0.1" />
         </element>
       </element>

@@ -6,11 +6,13 @@
 
     <dubbo:application name="dubbo-tourial" owner="jiabao.ma" organization="self-play"/>
 
+    <dubbo:provider timeout="60000" threads="200" id="test-provider"/>
+
     <dubbo:protocol id="test-protocol" name="dubbo" port="-1"/>
 
     <dubbo:registry id="test-registry" protocol="zookeeper" address="127.0.0.1:2181" group="test.group" check="false"/>
 
-    <dubbo:service interface="com.HelloService" ref="helloServiceImpl" version="1.1" registry="test-registry"
+    <dubbo:service interface="com.HelloService" ref="helloServiceImpl" version="1.0" registry="test-registry"
                    protocol="test-protocol"/>
 
 
